@@ -5,7 +5,7 @@ contact_links:
   about: Our internal Discord
 - name: Readme
   url: https://github.com/ElectroluxV2/fork-in-the-road/blob/main/readme.md
-  about: Consider updating
+  about: Consider updating documentation for further reference
 - name: Releases
   url: https://github.com/ElectroluxV2/fork-in-the-road/releases
-  about: Check for CI builds
+  about: Check for CI builds it may be working differently than your local build
