@@ -1,0 +1,21 @@
+name: Story
+description: Deliverable piece of feature.
+labels: ["Story"]
+projects: ["todo"]
+body:
+- type: textarea
+  id: description
+  attributes:
+    label: Description
+    description: General scope, depedencies, blockers, technical notes
+    placeholder: As a gamer, I want to...
+  validations:
+    required: true
+- type: textarea
+  id: acceptanc-criteria
+  attributes:
+    label: Acceptance Criteria
+    description: List of emphasised requirements
+    placeholder: Build should work
+  validations:
+    required: true
