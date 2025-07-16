@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+- name: Discord
+  url: https://discord.com/channels/1335721708782489792/1335721708782489795
+  about: Out internal Discord
+- name: Readme
+  url: https://github.com/ElectroluxV2/fork-in-the-road/blob/main/readme.md
+  about: Consider updating
+- name: Releases
+  url: https://github.com/ElectroluxV2/fork-in-the-road/releases
+  about: Check for CI builds
