@@ -1,5 +1,5 @@
 name: 🐞Bug
-description: File a bug report.
+description: File a bug report
 title: "🐞: "
 labels: ["bug"]
 projects: ["todo"]
