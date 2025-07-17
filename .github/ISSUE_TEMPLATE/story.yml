@@ -1,5 +1,5 @@
-name: Story
-description: Deliverable piece of feature.
+name: 📘Story
+description: Deliverable piece of feature
 labels: ["Story"]
 projects: ["todo"]
 body:
