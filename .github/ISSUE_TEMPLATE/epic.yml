@@ -1,0 +1,13 @@
+name: 🗺️Epic
+description: Major, complex goals
+labels: ["Epic"]
+projects: ["todo"]
+body:
+- type: textarea
+  id: description
+  attributes:
+    label: Description
+    description: General scope, non technical, short
+    placeholder: Game should include multiplayer support
+  validations:
+    required: true
