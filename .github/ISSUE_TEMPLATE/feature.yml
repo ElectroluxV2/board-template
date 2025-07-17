@@ -1,0 +1,13 @@
+name: ✨Feature
+description: Some functionality, fully working
+labels: ["Feature"]
+projects: ["todo"]
+body:
+- type: textarea
+  id: description
+  attributes:
+    label: Description
+    description: General scope, non technical, short
+    placeholder: Game should allow for p2p connections over Steam relay
+  validations:
+    required: true
